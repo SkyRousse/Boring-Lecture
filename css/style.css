@@ -1,0 +1,24 @@
+.intro {
+  font-style: italic;
+  font-size:  18px;
+  color: black;
+  text-align: center;
+}
+
+img.intro{
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+h2.intro{
+  color: red;
+  font-size: 25px;
+  font-style: italic;
+}
+
+h1{
+  font-size: 40px;
+  text-align: center;
+}
